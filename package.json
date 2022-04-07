@@ -1,0 +1,12 @@
+{
+  "name": "Day_4",
+  "version": "1.0.0",
+  "description": "First MVC folder structure",
+  "main": "index.js",
+  "author": "Mustapha Rabiu Adeola",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
